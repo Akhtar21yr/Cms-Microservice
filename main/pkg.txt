@@ -1,0 +1,11 @@
+Flask==2.2.3
+Werkzeug==2.2.3  # Ensure this version is compatible with Flask 2.x
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.36
+Flask-Migrate==3.1.0
+Flask-Script==2.0.6
+Flask-Cors==3.0.10
+requests==2.28.1
+mysqlclient==2.1.1
+pika==1.1.0
+Jinja2==3.1.2  # Ensure this version is compatible with Flask 2.x
